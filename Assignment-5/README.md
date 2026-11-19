@@ -1,12 +1,8 @@
 # STUDENT DETAILS
-
-**Name:** YAZHINI.E.M
-
-**Register Number:** 192511165
-
+**Name:Pratip raj P
+**Register Number:** 192521409
 **Course Name:** Java Programming
-
-**Course Code:** CSA0901
+**Course Code:** CSA0902
 
 ---
 
